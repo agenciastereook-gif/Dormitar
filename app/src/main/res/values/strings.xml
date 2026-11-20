@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desenchufe</string>
+    <string name="share_label">Guardar en Desenchufe</string>
+    <string name="blocker_label">Desenchufe: pausa antes de abrir apps</string>
+    <string name="blocker_desc">Cuando abrís una de las apps que elegiste en Desenchufe, te muestra una pausa de 10 segundos antes de entrar. No lee el contenido de la pantalla: solo mira qué app se abrió.</string>
+</resources>

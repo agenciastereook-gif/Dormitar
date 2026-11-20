@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Luna ámbar con un punto: "desenchufe." -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#E9A45C"
+        android:pathData="M60,32 A24,24 0 1,0 76,66 A19,19 0 1,1 60,32 Z" />
+    <path
+        android:fillColor="#86B6A8"
+        android:pathData="M74,40 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>
